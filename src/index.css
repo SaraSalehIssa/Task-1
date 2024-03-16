@@ -168,9 +168,22 @@
 }
 
 .price{
-    width: 350px;
     height: 66px;
     color: #222F65;
     font-size: 50px;
     line-height: 66px;
+}
+
+.design{
+    height: 26px;
+    color: #37447E;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.one-price{
+    height: 24px;
+    color: #5D6970;
+    font-size: 14px;
+    line-height: 24px;
 }
